@@ -9,5 +9,7 @@ Here is a mini project made using above topics:
 # 3. Event Delegation
 
 
-https://user-images.githubusercontent.com/49307371/206657301-7417610b-4570-4c31-bce8-71d0210e8b9d.mov
+
+
+https://user-images.githubusercontent.com/49307371/206658198-9aa9ef8d-1ef2-441f-a209-91b014a4f18d.mov
 
